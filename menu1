@@ -1,0 +1,83 @@
+<html>
+<head>
+	<title>Menu</title>
+       
+        <link rel="stylesheet" type="text/css" href="css/menustyle.css" />
+
+        </head>
+        <body>
+<ul id="menu">
+	<li>
+		<a href="#">Cadastros</a>
+		<ul>
+			<li>
+				<a href="#">Usu&aacuterios</a>
+			</li>
+			<li>
+				<a href="#">Gerenciamento</a>
+			</li>
+		</ul>
+	<li>
+	<li>
+		<a href="#">Relat&oacuterios</a>
+		<ul>
+			<li>
+				<a href="#">Child D</a>
+			</li>
+			<li>
+				<a href="#">Child E</a>
+			</li>
+			<li>
+				<a href="#">Child F</a>
+			</li>
+			<li>
+				<a href="#">Child G</a>
+			</li>
+		</ul>
+	<li>
+	<li>
+		<a href="#">Parent 3</a>
+		<ul>
+			<li>
+				<a href="#">Child H</a>
+			</li>
+			<li>
+				<a href="#">Child I</a>
+			</li>
+			<li>
+				<a href="#">Child J</a>
+			</li>
+			<li>
+				<a href="#">Child K</a>
+			</li>
+			<li>
+				<a href="#">Child L</a>
+			</li>
+		</ul>
+	<li>
+	<li>
+		<a href="#">Parent 4</a>
+		<ul>
+			<li>
+				<a href="#">Child M</a>
+			</li>
+			<li>
+				<a href="#">Child N</a>
+			</li>
+			<li>
+				<a href="#">Child O</a>
+			</li>
+			<li>
+				<a href="#">Child P</a>
+			</li>
+			<li>
+				<a href="#">Child Q</a>
+			</li>
+			<li>
+				<a href="#">Child R</a>
+			</li>
+		</ul>
+	<li>
+</ul>
+</body>
+</html>
